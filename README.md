@@ -2,9 +2,9 @@
 
 # Experiment 20 – Searching in C++
 
-**Student:** Rajendra Chaganti  
-**PRN:** 24070123150  
-**Batch:** B3  
+**Student:** Rachit Deshpande  
+**PRN:** 24070123035  
+**Batch:** A2  
 
 ---
 
